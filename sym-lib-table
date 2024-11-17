@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TP4056")(type "KiCad")(uri "/Users/theevilroot/Documents/nfcSwitch/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "FS8205")(type "KiCad")(uri "/Users/theevilroot/Documents/nfcSwitch/FS8205.kicad_sym")(options "")(descr ""))
+)
